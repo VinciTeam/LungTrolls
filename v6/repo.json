@@ -21,6 +21,48 @@
             "screenshots":[
             ],
             "varOnly":true
+        },
+        {
+            "name": "FaceIDeath",
+            "bundleid": "com.LungTrolls.FaceIDeath",
+            "author": "LungTrolls",
+            "description": "Breaks Face ID. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "long_description":"Breaks Face ID. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "version": "1.0",
+            "icon": "assets/faceideath.jpeg",
+            "banner":"assets/banner.jpeg",
+            "path": "pkgs/com.LungTrolls.FaceIDeath.zip",
+            "screenshots":[
+            ],
+            "varOnly":true
+        },
+        {
+            "name": "Basebanned",
+            "bundleid": "com.LungTrolls.Basebanned",
+            "author": "LungTrolls",
+            "description": "Breaks Baseband. Will break your device completely after applying. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "long_description":"Breaks Baseband. Will break your device completely after applying. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "version": "1.0",
+            "icon": "assets/basebanned.jpeg",
+            "banner":"assets/banner.jpeg",
+            "path": "pkgs/com.LungTrolls.Basebanned.zip",
+            "screenshots":[
+            ],
+            "varOnly":true
+        },
+        {
+            "name": "ReSetupAssistant",
+            "bundleid": "com.LungTrolls.ReSetupAssistant",
+            "author": "LungTrolls",
+            "description": "Force you back onto the setup screen. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "long_description":"Force you back onto the setup screen. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "version": "1.0",
+            "icon": "assets/resetupassistant.jpeg",
+            "banner":"assets/banner.jpeg",
+            "path": "pkgs/com.LungTrolls.ReSetupAssistant.zip",
+            "screenshots":[
+            ],
+            "varOnly":true
         }
     ]
 }
