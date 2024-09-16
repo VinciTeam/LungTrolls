@@ -1,23 +1,23 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "SparseTweaks",
-    "description": "Tweaks made for SparseRestore.",
-    "icon": "assets/IMG_0008.png",
+    "name": "LungTrolls",
+    "description": "Brick & Break your device with SparseRestore! WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK",
+    "icon": "assets/icon.jpeg",
     "featured": [
         
     ],
     "packages": [
         {
             "name": "BootloopBuddy",
-            "bundleid": "com.SparseTweaks.Reachable",
-            "author": "SparseTweaks",
-            "description": "Bootloops your device.",
-            "long_description":"Bootloops your device. Will auto-restore on iOS 17.4.1+",
+            "bundleid": "com.LungTrolls.BootloopBuddy",
+            "author": "LungTrolls",
+            "description": "Bootloops your device. Will auto-restore on iOS 17.4.1+. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
+            "long_description":"Bootloops your device. Will auto-restore on iOS 17.4.1+. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES THAT OCCUR. USE THESE TWEAKS AT YOUR OWN RISK.",
             "version": "1.0",
-            "icon": "assets/bootloopbuddy.PNG",
-            "banner":"assets/IMG_0007.png",
-            "path": "pkgs/com.SparseTweaks.Reachable.zip",
+            "icon": "assets/bootloopbuddy.jpeg",
+            "banner":"assets/banner.jpeg",
+            "path": "pkgs/com.LungTrolls.BootloopBuddy.zip",
             "screenshots":[
             ],
             "varOnly":true
